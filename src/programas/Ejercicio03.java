@@ -1,3 +1,6 @@
+/*
+Escribe un programa en Java que solicite al usuario el radio de un círculo y calcule tanto el área como la circunferencia del círculo.
+*/
 package programas;
 import java.util.Scanner;
 import java.lang.Math;

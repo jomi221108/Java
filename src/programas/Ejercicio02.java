@@ -1,3 +1,7 @@
+/*
+Escribe un programa que permita al usuario ingresar tres números y determine el valor absoluto de cada uno.
+Luego determine el mayor valor absoluto.
+*/
 package programas;
 import java.util.Scanner;
 import java.lang.Math;

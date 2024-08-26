@@ -1,3 +1,6 @@
+/*
+Escribe un programa en Java que permita al usuario ingresar dos números y calcule la raíz cuadrada de la suma de ambos números.
+ */
 package programas;
 import java.util.Scanner;
 import java.lang.Math;
